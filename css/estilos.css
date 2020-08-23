@@ -1,0 +1,55 @@
+body {
+	font-family: sans-serif;
+}
+
+#aviso {
+	display: block;
+	margin: 5px 0px;
+	background-color: black;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+}
+
+#contenedor {
+	width:60%;
+	margin-right:auto; 
+	margin-left:auto;
+	color: darkgray;
+	border: 2px grey solid;
+	padding: 10px;
+}
+
+.logo {
+	text-align: center;
+}
+
+img {
+	width:100%;
+}
+
+h2 {
+	text-align:left;
+	color: red;
+}
+
+.contenido {
+	padding: 10px;
+	background: lightgrey;
+	color: darkgreen;
+}
+
+.destacado {
+	font-weight: bold;
+}
+
+.final {
+	background: url("../img/banner.jpg");
+	height: 80px;
+	color: black;
+	text-align: right;
+}
+
+span {
+	font-size: 0.8em;
+}
